@@ -142,6 +142,4 @@ npm run dev
 - Per-app settings + app installs
 - Workspace/multiple desktops
 
-## License
-
 Private project (for now).
