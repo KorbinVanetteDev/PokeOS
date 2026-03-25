@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root { height: 100%; }
+body { margin: 0; background: var(--poke-bg); color: var(--poke-fg); }
+
+:root{
+  --poke-accent: #2A75BB;
+  --poke-bg: #0b1220;
+  --poke-fg: #F7F0D8;
+  --poke-panel: rgba(11,18,32,0.88);
+}
